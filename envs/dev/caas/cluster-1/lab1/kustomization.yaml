@@ -1,0 +1,3 @@
+resources:
+- ws1/namespace.yaml
+- ws2/namespace.yaml
