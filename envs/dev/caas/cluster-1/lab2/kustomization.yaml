@@ -1,2 +1,3 @@
 resources:
-- namespace.yaml
+- ws1/namespace.yaml
+- ws2/namespace.yaml
